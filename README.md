@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 
 Hello Welocome to my Github Profile
 
-ABOUT ME:
-
 
 
