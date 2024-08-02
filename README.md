@@ -13,12 +13,12 @@
 - 💬 Ask me About Web development and Web Technolgies.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:arjyo77@gmail.com) 
 - ⚡ Fun fact: I love to go to the gym
-- Profile views: ![](https://komarev.com/ghpvc/?username=arjyo851)
+- Profile views: ![](https://komarev.com/ghpvc/?username=romanvaibhav)
 
 <br>
 <h2>📊 Github Stats</h2>
 
-![Arjyo's github stats](https://github-readme-stats.vercel.app/api?username=arjyo851&theme=onedark)
+![Arjyo's github stats](https://github-readme-stats.vercel.app/api?username=romanvaibhavtheme=onedark)
 
 <br>
 
