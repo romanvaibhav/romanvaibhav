@@ -1,0 +1,2 @@
+function now() { [native code] }: GET: /api/usersfunction now() { [native code] }: GET: /api/usersfunction now() { [native code] }: GET: /api/usersfunction now() { [native code] }: GET: /api/users
+1729939206919: GET: /api/users
