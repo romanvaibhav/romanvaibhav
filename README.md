@@ -16,9 +16,6 @@
 - Profile views: ![](https://komarev.com/ghpvc/?username=romanvaibhav)
 
 <br>
-<h2>📊 Github Stats</h2>
-
-![Arjyo's github stats](https://github-readme-stats.vercel.app/api?username=romanvaibhavtheme=onedark)
 
 <br>
 
