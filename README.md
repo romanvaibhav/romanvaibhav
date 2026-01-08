@@ -7,12 +7,13 @@
 <br>
 
 
-- 🔭 I am honing my dev and python skills.
-- 🌱 I am currently learning Python/Django 
+- 🔭 I am honing my dev Skills with strong foundation in Java Fullstack and Cloud Computing.
+- I have strong hold on DSA in C++ and Java Solved 600+ problems with 3⭐ on CodeChef, 1000+ Coding Score on GFG , 1700+ rating on LeetCode
+- I have 5⭐ badge in problem solving, C++ and Java on HackeRank.
+- 🌱 I am currently learning AI/ML . 
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About Web development and Web Technolgies.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:arjyo77@gmail.com) 
-- ⚡ Fun fact: I love to go to the gym
+- ⚡ Fun fact: I love to go to the gym, Traking, Problem Solving
 - Profile views: ![](https://komarev.com/ghpvc/?username=romanvaibhav)
 
 <br>
@@ -49,10 +50,10 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/vaibhav-roman-8917ba210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://www.instagram.com/arjyo74/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arjyo77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://leetcode.com/arjyo77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/arjyo77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arjyo851" height="30" width="40" /></a>
+
+<a href="[https://www.hackerrank.com/arjyo77](https://www.hackerrank.com/profile/vaibhavroman2022)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjyo851" height="30" width="40" /></a>
+<!-- <a href="https://leetcode.com/arjyo77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjyo851" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/arjyo77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arjyo851" height="30" width="40" /></a> -->
 </p>
 
 
